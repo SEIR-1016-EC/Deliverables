@@ -1,24 +1,23 @@
-# Deliverables# SEIR Deliverables
 
-A **Deliverable** is an assignment that is required to be submitted.  Although not all labs/homework are required to be submitted as deliverables, they are still to be completed when assigned since they provide the necessary practice for the lessons taught.
+# SEBR Course Deliverables
+
+A **Deliverable** is an assignment that is required to be submitted and reviewed by your instructional team.  Although not all labs/homework are required to be submitted as deliverables, they are still to be completed when assigned since they provide the necessary practice for the lessons taught.
 
 Graduation requires that 80% of deliverables be completed and delivered on time.
 
-Deliverables not submitted during the Unit they are assigned will not be accepted.
+Deliverables not submitted during the unit they are assigned will not be accepted.
 
-All submitted deliverables must "work" and meet the minimum requirements - they are graded as pass/no-pass.
+All submitted deliverables must "work" and meet the minimum requirements outlined by your instructional team - they are graded as complete/incomplete.
 
 ## Unit 1 Deliverables
-| Assigned | Name | Repo Link|Due Date|
+| Assigned | Name | Repo Link | Due Date |
 |--|--|--|--|
-| TBD  | [Arrays Lab]()  | [GH Repo]()  |TBD  |
-| TBD  | [Objects Lab]()  | [GH Repo]() | TBD  |
-| TBD  | [Functions Lab]()  | [GH Repo]() | TBD  |
-| TBD  | [DOM Lab - Pt1]() <br> --- <br> [DOM Lab - Pt2]() | [GH Repo]() | TBD |
-| TBD  | [RPS Extension ]() <br> OR <br> [Tic Tac Toe (Optional HW)]() | Submit Links in TI |  TBD  |
-| TBD  | [Array Iterator Lab]() | [GH Repo]() | TBD  |
-| TBD  | JS Classes Lab ()  | [GH Repo]() | TBD  |
-| TBD  | [Project 1 Planning Materials]() | TBD | TBD  |
+| 10/17/23  | [Control Flow Lab]()  | [GH Repo](https://github.com/SEIR-1016-EC/HW1-JS-Control-Flow)  | 10/18/23  |
+| 10/18/23  | [Arrays Lab](https://github.com/SEIR-1016-EC/HW2-Array-Practice-Lab)  | [GH Repo]()  | 10/19/23  |
+| 10/20/23  | [Objects Lab]()  | [GH Repo](https://github.com/SEIR-1016-EC/HW4-Objects-Lab) | 10/23/23  |
+| 10/23/23  | [Array Iterator Lab](https://github.com/SEIR-1016-EC/HW5-Array-Iterator-Lab) | [GH Repo]() | 10/24/24  |
+| 10/24/23  | JS Classes Lab ()  | [GH Repo](https://github.com/SEIR-1016-EC/HW-6-Classes-Lab) | 10/25/23  |
+| 10/27/23  | [Project 1 Planning Materials]() | Personal Github | 10/30/23 |
 
 
 
