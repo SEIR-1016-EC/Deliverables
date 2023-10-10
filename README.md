@@ -9,6 +9,8 @@ Deliverables not submitted during the unit they are assigned will not be accepte
 
 All submitted deliverables must "work" and meet the minimum requirements outlined by your instructional team - they are graded as complete/incomplete.
 
+### Note: These resources and dates are subject to change
+
 ## Unit 1 Deliverables
 | Assigned | Name | Repo Link | Due Date |
 |--|--|--|--|
@@ -26,38 +28,42 @@ All submitted deliverables must "work" and meet the minimum requirements outline
 ## Unit 2 Deliverables
 | Assigned | Name | Repo Link|Due Date|
 |--|--|--|--|
-| TBD | [Express Practice Lab]() | [Repo]() | TBD |
-| TBD | [Express Dev Skills - p1]() | [Repo]() | TBD  |
-| TBD | [Express Dev Skills - p2]() | See above | TBD |
-| TBD | [Mongoose Flights - p1]() | [Repo]() | TBD |
-| TBD | [Mongoose Flights - p2]() | See above | TBD |
-| TBD | [Mongoose Flights - p3]() | See above | TBD  |
-| TBD | [Code and Chill]() | Slack Submission |TBD (EOD)|
+| 11/07/23| Express Todos Lesson Materials | [GH Repo TBD]()| 11/13/23|
+| 11/08/23 | [Express Dev Skills - p1](https://git.generalassemb.ly/wsjoshua/SEIR-Student-Resources/blob/main/Unit_2/3-express-framework/3.3.1-dev-skills-lab-part-1.md) | [GH Repo TBD]() | 11/09/23  |
+| 11/09/23 | [Express Dev Skills - p2](https://git.generalassemb.ly/wsjoshua/SEIR-Student-Resources/blob/main/Unit_2/3-express-framework/3.5.1-dev-skills-lab-part-2.md) | See above | 11/13/23 |
+| 11/14/23 | Mongoose Movies Lesson Materials | [GH Repo TBD]()| 11/20/23 |
+| 11/15/23 | [Mongoose Flights - p1](https://git.generalassemb.ly/wsjoshua/SEIR-Student-Resources/blob/main/Unit_2/8-mongoose/8.1.2-mongoose-flights-lab-part-1.md) | [GH Repo TBD]() | 11/16/23 |
+| 11/16/23 | [Mongoose Flights - p2](https://git.generalassemb.ly/wsjoshua/SEIR-Student-Resources/blob/main/Unit_2/8-mongoose/8.2.1-mongoose-flights-lab-part-2.md) | See above | 11/17/23 |
+| 11/17/23 | [Mongoose Flights - p3](https://git.generalassemb.ly/wsjoshua/SEIR-Student-Resources/blob/main/Unit_2/8-mongoose/8.4.1-mongoose-flights-lab-part-3.md) | See above | 11/20/23  |
+| 11/20/23 | [Code and Chill](https://github.com/SEIR-1016-EC/DL11-Express-MEN-Code-and-Chill) | Slack Submission | 11/20/23 (EOD)|
+| 11/20/23  | [Project 2 Planning Materials](https://git.generalassemb.ly/wsjoshua/SEIR-Student-Resources/blob/main/Unit_2/project-2/project-2.md#planning--presentation-requirements) | Personal Github | 11/21/23 |
+| 11/20/23  | [Project 2 ](https://git.generalassemb.ly/wsjoshua/SEIR-Student-Resources/blob/main/Unit_2/project-2/project-2.md#technical-requirements) | Personal Github | 11/30/23 |
+
 
 <br><br><hr>
 
 ## Unit 3 Deliverables
 | Assigned | Name | Repo Link|Due Date|
 |--|--|--|--|
-| TBD | [React Dev Skills Pt1]() | [Repo]() | TBD  |
-| TBD | [React Dev Skills Pt2]() | See above | TBD |
-| TBD | [React Dev Skills Pt3]() | See above | TBD |
-| TBD | [React Students Lab]() |[Repo]() |TBD |
-| TBD | [React Dev Skills Pt4]() |TBD3|
-| TBD | [React Audubon Lab]() |TBD|
-| TBD | [React Portfolio]() | Personal GH | TBD |
-| TBD | [Project 3 Planning Materials]() | Personal GH |EOD TBD|
+| 12/01/23 | [ React Dev Skills Pt1 ]() | [Repo TBD]() | 12/04/23  |
+| 12/01/23 | [ React Dev Skills Pt2 ]() | See above | 12/04/23 |
+| 12/0/23 | [ React Dev Skills Pt3 ]() | See above | 12/05/23 |
+| 12/06/23 | [ React Dev Skills Pt4 ]() | See above | 12/07/23 |
+| 12/07/23 | [ React Audubon Lab ]() |Repo TBD](12/08/23)|
+| 12/11/23 | [ React Portfolio ]() | Personal GH | 12/15/23 |
+| 12/14/23 | [ Project 3 Planning Materials ]() | Personal GH | 12/15/23 (EOD)|
+| 12/14/23  | [ Project 3 ]() | Personal Github | 12/22/23 |
 
 <br><br><hr>
 
 ## Unit 4 Deliverables
 | Assigned | Name | Repo Link|Due Date|
 |--|--|--|--|
-|TBD| Python Control Flow| [Repo]() |TBD|
-|TBD| Python Containers| [Repo]() |TBD|
-|TBD| Python Classes| [Repo]() |TBD|
-|TBD| SQL Lab - Carmen Sandiego | [Repo]() |TBD|
-|TBD| Finch Collector Pt 1 (URLS/Views) | [Repo]() |TBD|
-|TBD| Finch Collector Pt 2 (Models) | [Repo]() |TBD|
-|TBD| Finch Collector Pt 3 (1:M) | [Repo]() |TBD|
-| TBD | [ Capstone Planning Materials]() | Personal GH |EOD TBD|
+|1/02/23| Python Control Flow| [Repo]() |1/03/23|
+|1/03/23| Python Containers| [Repo]() |1/04/23|
+|1/04/23| Python Classes| [Repo]() |1/05/23|
+|1/05/23| SQL Lab - Carmen Sandiego | [Repo]() |1/08/23|
+|1/08/23| Finch Collector Pt 1 (URLS/Views) | [Repo]() |1/09/23|
+|1/09/23| Finch Collector Pt 2 (Models) | [Repo]() |1/10/23|
+|1/10/23| Finch Collector Pt 3 (1:M) | [Repo]() |1/12/23|
+| 1/12/23 | [ Capstone Planning Materials]() | Personal GH |EOD 1/15/23 |
