@@ -14,11 +14,12 @@ All submitted deliverables must "work" and meet the minimum requirements outline
 ## Unit 1 Deliverables
 | Assigned | Name | Repo Link | Due Date |
 |--|--|--|--|
-| 10/17/23  | [Control Flow Lab](https://github.com/SEIR-1016-EC/HW1-JS-Control-Flow)  | [GH Repo](https://github.com/SEIR-1016-EC/HW1-JS-Control-Flow)  | 10/18/23  |
-| 10/18/23  | [Arrays Lab](https://git.generalassemb.ly/wsjoshua/SEIR-Student-Resources/blob/main/Unit_1/02-js-fundamentals/2.3.1-js-arrays-lab.md)  | [GH Repo](https://github.com/SEIR-1016-EC/HW2-Array-Practice-Lab)  | 10/19/23 |
-| 10/20/23  | [Objects Lab](https://git.generalassemb.ly/wsjoshua/SEIR-Student-Resources/blob/main/Unit_1/02-js-fundamentals/2.7.1-js-objects-lab.md)  | [GH Repo](https://github.com/SEIR-1016-EC/HW4-Objects-Lab) | 10/23/23 |
-| 10/23/23  | [Array Iterator Lab](https://git.generalassemb.ly/wsjoshua/SEIR-Student-Resources/blob/main/Unit_1/07-js-continued/7.4.1-array-iterator-methods-lab.md) | [GH Repo](https://github.com/SEIR-1016-EC/HW5-Array-Iterator-Lab) | 10/24/24 |
-| 10/24/23  | [JS Classes Lab](https://github.com/SEIR-1016-EC/HW-6-Classes-Lab) | [GH Repo](https://github.com/SEIR-1016-EC/HW-6-Classes-Lab) | 10/25/23  |
+| 10/17/23  | Control Flow Lab | [GH Repo](https://github.com/SEIR-1016-EC/HW1-JS-Control-Flow)  | 10/18/23  |
+| 10/18/23  | Arrays Lab  | [GH Repo](https://github.com/SEIR-1016-EC/HW2-Array-Practice-Lab)  | 10/19/23 |
+| 10/20/23  | JS Muscle Memory  | [GH Repo](https://github.com/SEIR-1016-EC/HW3-JS-Muscle-Memory) | 10/23/23 |
+| 10/20/23  | Objects Lab  | [GH Repo](https://github.com/SEIR-1016-EC/HW4-Objects-Lab) | 10/23/23 |
+| 10/23/23  | Array Iterator Lab | [GH Repo](https://github.com/SEIR-1016-EC/HW5-Array-Iterator-Lab) | 10/24/24 |
+| 10/24/23  | JS Classes Lab | [GH Repo](https://github.com/SEIR-1016-EC/HW-6-Classes-Lab) | 10/25/23  |
 | 10/27/23  | [Project 1 Planning Materials](https://git.generalassemb.ly/wsjoshua/SEIR-Student-Resources/blob/main/Unit_1/project-1/project-1-requirements.md) | Personal Github | 10/30/23 |
 | 10/27/23  | [Project 1 ](https://git.generalassemb.ly/wsjoshua/SEIR-Student-Resources/blob/main/Unit_1/project-1/project-1-requirements.md#technical-requirements) | Personal Github | 11/3/23 |
 
