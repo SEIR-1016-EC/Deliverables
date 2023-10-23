@@ -19,7 +19,7 @@ All submitted deliverables must "work" and meet the minimum requirements outline
 | 10/20/23  | JS Muscle Memory  | [GH Repo](https://github.com/SEIR-1016-EC/HW3-JS-Muscle-Memory) | 10/23/23 |
 | 10/20/23  | Objects Lab  | [GH Repo](https://github.com/SEIR-1016-EC/HW4-Objects-Lab) | 10/23/23 |
 | 10/23/23  | Array Iterator Lab | [GH Repo](https://github.com/SEIR-1016-EC/HW5-Array-Iterator-Lab) | 10/24/24 |
-| 10/24/23  | JS Classes Lab | [GH Repo](https://github.com/SEIR-1016-EC/HW-6-Classes-Lab) | 10/25/23  |
+| 10/26/23  | JS Classes Lab | [GH Repo](https://github.com/SEIR-1016-EC/HW-6-Classes-Lab) | 10/27/23  |
 | 10/27/23  | [Project 1 Planning Materials](https://git.generalassemb.ly/wsjoshua/SEIR-Student-Resources/blob/main/Unit_1/project-1/project-1-requirements.md) | Personal Github | 10/30/23 |
 | 10/27/23  | [Project 1 ](https://git.generalassemb.ly/wsjoshua/SEIR-Student-Resources/blob/main/Unit_1/project-1/project-1-requirements.md#technical-requirements) | Personal Github | 11/3/23 |
 
