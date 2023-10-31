@@ -52,7 +52,7 @@ All submitted deliverables must "work" and meet the minimum requirements outline
 | 12/0/23  | React Dev Skills Pt3 | See above | 12/05/23 |
 | 12/06/23 | React Dev Skills Pt4 | See above | 12/07/23 |
 | 12/07/23 | React Audubon Lab | [Repo TBD]()| 12/08/23 |
-| 12/11/23 | React Portfolio ]() | Personal GH | 12/15/23 |
+| 12/11/23 | React Portfolio | Personal GH | 12/15/23 |
 | 12/14/23 | [ Project 3 Planning Materials ]() | Personal GH | 12/15/23 (EOD)|
 | 12/14/23 | [ Project 3 ]() | Personal Github | 12/22/23 |
 
