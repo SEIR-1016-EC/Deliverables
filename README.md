@@ -29,6 +29,7 @@ All submitted deliverables must "work" and meet the minimum requirements outline
 ## Unit 2 Deliverables
 | Assigned | Name | Repo Link|Due Date|
 |--|--|--|--|
+| 11/06/23| Express Practice Lab | [GH Repo TBD]()| 11/07/23 |
 | 11/07/23| Express Todos Lesson Materials | [GH Repo TBD]()| 11/13/23|
 | 11/08/23 | [Express Dev Skills - p1]() | [GH Repo TBD]() | 11/09/23  |
 | 11/09/23 | [Express Dev Skills - p2]() | See above | 11/13/23 |
@@ -36,7 +37,7 @@ All submitted deliverables must "work" and meet the minimum requirements outline
 | 11/15/23 | [Mongoose Flights - p1]() | [GH Repo TBD]() | 11/16/23 |
 | 11/16/23 | [Mongoose Flights - p2]() | See above | 11/17/23 |
 | 11/17/23 | [Mongoose Flights - p3]() | See above | 11/20/23  |
-| 11/20/23 | [Code and Chill]() | Slack Submission | 11/20/23 (EOD)|
+| 11/20/23 | [Code and Chill]()| Slack Submission | 11/20/23 (EOD)|
 | 11/20/23 | [Project 2 Planning Materials]() | Personal Github | 11/21/23 |
 | 11/20/23 | [Project 2 ]() | Personal Github | 11/30/23 |
 
